@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Git-There](https://github.com/TranquilTort/GitThere)
 
-- 🌱 I’m currently learning **How to achieve a lower T(n) with constant lookup time data structures..**
+- 🌱 I’m currently learning **how to achieve a lower T(n) with constant lookup time data structures..**
 
 - 👨‍💻 All of my projects are available at [https://tranquiltort.github.io/](https://tranquiltort.github.io/)
 
-- 💬 Ask me about **Fun ways to use inline styling in React.**
+- 💬 Ask me about **fun ways to use inline styling in React.**
 
 - ⚡ Fun fact **I'm an avid weight lifter!**
 
